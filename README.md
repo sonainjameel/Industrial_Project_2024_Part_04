@@ -38,7 +38,7 @@ This project processes and analyzes spectral data using Principal Component Anal
    pip install -r requirements.txt
    ```
 
-3. **Prepare Input Data**: Ensure your `.hdr` files are placed in the folders specified in `config2.yaml`.
+3. **Prepare Input Data**: Ensure your `.hdr` and `.raw` files are placed in the folders specified in `config2.yaml`.
 
 ## Configuration
 
