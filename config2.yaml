@@ -1,0 +1,16 @@
+tasks:
+  - name: structure_oil
+    dir_path: "/Users/sonainjamil/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofEasternFinland/Kasem Amnuayrotchanachinda - Kasame_Industial_Project/Spectral_bin/Ref"
+    components: 10
+
+  - name: structure_charring
+    dir_path: "/Users/sonainjamil/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofEasternFinland/Kasem Amnuayrotchanachinda - Kasame_Industial_Project/Data_pca_structure_charring"
+    components: 10
+
+  - name: oil_charring
+    dir_path: "/Users/sonainjamil/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofEasternFinland/Kasem Amnuayrotchanachinda - Kasame_Industial_Project/Data_pca_oil_charring"
+    components: 10
+
+  - name: cracking
+    dir_path: "/Users/sonainjamil/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofEasternFinland/Kasem Amnuayrotchanachinda - Kasame_Industial_Project/Data_pca_Cracking"
+    components: 10
