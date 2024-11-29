@@ -1,5 +1,5 @@
 numpy==1.23.5             # For numerical operations
 matplotlib==3.6.2         # For plotting
-scikit-learn==1.2.0       
-opencv-python==4.6.0.66  
-pyyaml==6.0               # For reading configuration from config.yaml
+scikit-learn==1.2.0       # For PCA
+opencv-python==4.6.0.66   # For image processing
+pyyaml==6.0               # For reading configuration from config2.yaml
