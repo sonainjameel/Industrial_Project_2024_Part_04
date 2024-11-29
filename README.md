@@ -7,7 +7,7 @@ This project processes and analyzes spectral data using Principal Component Anal
 
 - **PCA Analysis**: Performs dimensionality reduction on spectral data and visualizes the explained variance and principal components.
 - **Task-Based Execution**: Supports multiple tasks (e.g., `structure_oil`, `structure_charring`) specified in the configuration file.
-- **Configurable Parameters**: Input paths, number of PCA components, and task selection are managed via `config.yaml`.
+- **Configurable Parameters**: Input paths, number of PCA components, and task selection are managed via `config2.yaml`.
 - **Custom Visualizations**:
   - Explained variance bar charts.
   - False-colored PCA component images.
