@@ -3,6 +3,15 @@
 
 This project processes and analyzes spectral data using Principal Component Analysis (PCA). It supports multiple tasks such as `structure_oil`, `structure_charring`, `oil_charring`, and `cracking`. Tasks are configured via a `config2.yaml` file, enabling flexibility and reproducibility.
 
+## Demo Video
+
+Below is the demo video for this project. 
+
+<video width="600" controls>
+  <source src="demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **PCA Analysis**: Performs dimensionality reduction on spectral data and visualizes the explained variance and principal components.
