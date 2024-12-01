@@ -1,6 +1,9 @@
 
 # Industrial Project Part 4: PCA-Based Spectral Data Analysis
 
+> **_⚠️ Note:_**  
+> **_This code has been tested on Python versions 3.10.5 and 3.12.4._** 
+
 This project processes and analyzes spectral data using Principal Component Analysis (PCA). It supports multiple tasks such as `structure_oil`, `structure_charring`, `oil_charring`, and `cracking`. Tasks are configured via a `config2.yaml` file, enabling flexibility and reproducibility.
 
 ## Features
